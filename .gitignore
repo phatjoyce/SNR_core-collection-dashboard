@@ -1,0 +1,6 @@
+.venv/
+outputs/
+notebooks/
+data/raw/**
+.DS_Store
+__pycache__/
