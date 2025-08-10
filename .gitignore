@@ -1,6 +1,24 @@
-.venv/
-outputs/
-notebooks/
-data/raw/**
-.DS_Store
+# Ignore Python cache
 __pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore virtual environment
+.venv/
+
+# Ignore data and images
+data/w
+sportyandrich/
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Ignore large temporary files
+*.zip
+*.tar
+*.gz
+
+# Ignore local config files
+.env
+.DS_Store
