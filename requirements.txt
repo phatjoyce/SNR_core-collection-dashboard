@@ -1,0 +1,7 @@
+streamlit==1.37.0
+pandas>=2.1
+numpy>=1.26
+Pillow>=10.0
+colorthief>=0.2.1
+scikit-learn>=1.4
+matplotlib>=3.8
