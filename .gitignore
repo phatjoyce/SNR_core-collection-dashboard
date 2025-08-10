@@ -22,3 +22,4 @@ sportyandrich/
 # Ignore local config files
 .env
 .DS_Store
+.DS_Store
